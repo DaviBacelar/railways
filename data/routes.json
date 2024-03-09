@@ -1,0 +1,90 @@
+[
+  {
+    "route_id": "1",
+    "agency_id": "800643",
+    "route_short_name": "S3",
+    "route_long_name": "",
+    "route_desc": "",
+    "route_type": "109",
+    "route_url": "",
+    "route_color": "",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "2",
+    "agency_id": "800643",
+    "route_short_name": "S4",
+    "route_long_name": "",
+    "route_desc": "",
+    "route_type": "109",
+    "route_url": "",
+    "route_color": "",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "3",
+    "agency_id": "800643",
+    "route_short_name": "S5",
+    "route_long_name": "",
+    "route_desc": "",
+    "route_type": "109",
+    "route_url": "",
+    "route_color": "",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "4",
+    "agency_id": "800643",
+    "route_short_name": "S6",
+    "route_long_name": "",
+    "route_desc": "",
+    "route_type": "109",
+    "route_url": "",
+    "route_color": "",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "5",
+    "agency_id": "800643",
+    "route_short_name": "S1",
+    "route_long_name": "",
+    "route_desc": "",
+    "route_type": "109",
+    "route_url": "",
+    "route_color": "",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "6",
+    "agency_id": "800643",
+    "route_short_name": "S2",
+    "route_long_name": "",
+    "route_desc": "",
+    "route_type": "109",
+    "route_url": "",
+    "route_color": "",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "7",
+    "agency_id": "800643",
+    "route_short_name": "S60",
+    "route_long_name": "",
+    "route_desc": "",
+    "route_type": "109",
+    "route_url": "",
+    "route_color": "",
+    "route_text_color": ""
+  },
+  {
+    "route_id": "8",
+    "agency_id": "800643",
+    "route_short_name": "S11",
+    "route_long_name": "",
+    "route_desc": "",
+    "route_type": "109",
+    "route_url": "",
+    "route_color": "",
+    "route_text_color": ""
+  }
+]
