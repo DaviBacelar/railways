@@ -9,7 +9,11 @@ export async function GET() {
         const routes: Partial<RailwayRoutesInterface>[] = data.map(({route_id, route_short_name})=> ({
             route_id,
             route_short_name
-        }));
+        })).sort((a, b) => {
+            const numA = Number(a.route_short_name.replace('S', ''));
+            const numB = Number(b.route_short_name.replace('S', ''));
+            return numA - numB;
+        });
 
         return NextResponse.json(routes);
     } catch (error) {
